@@ -15,6 +15,7 @@ and open the template in the editor.
         echo "Hello, Dilip Patel";
         echo '<br>';
         echo "How are you Today?";
+        echo "How are you Today?";
         ?>
     </body>
 </html>
